@@ -1,2 +1,3 @@
-# Eye-Excercise
-This project will demonstrate eye movement following the movement of your mouse.
+# Eyes
+## Exercise on eyes
+<img src= "oneeye.png" width='300'/>
